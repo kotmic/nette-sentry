@@ -1,5 +1,5 @@
 {
-  "name": "rootpd/nette-sentry",
+  "name": "kotmic/nette-sentry",
   "description": "Nette Sentry logger library",
   "license": "MIT",
   "keywords": ["nette", "sentry", "errorlogger", "errors"],
